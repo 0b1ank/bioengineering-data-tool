@@ -1,0 +1,8 @@
+streamlit
+pandas
+numpy
+matplotlib
+opencv-python
+pillow
+# pytesseract is imported but not used, but including it doesn't hurt.
+pytesseract
